@@ -1,0 +1,9 @@
+    .navBtn{
+        -fx-background-radius: 1px;
+        -fx-blend-mode: true;
+        -fx-background-color: transparent;
+
+    }
+    .navBtn:hover{
+        -fx-background-color: gray;
+    }
